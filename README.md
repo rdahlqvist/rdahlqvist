@@ -16,16 +16,4 @@ Backendutvecklare / Webbutvecklare
 
 ---
 
-## ✨ Projekt
-
-### 📦 [Blazor Web Starter Template](https://github.com/rdahlqvist/BlazorWebStarterTemplate.git)
-En template för att snabbt starta nya Blazor Server-projekt med en genomtänkt
-CSS-grund redan på plats. Scaffold:en från Microsoft har rensats på konflikterande
-Bootstrap-klasser och ersatts med ett Grid-baserat layoutsystem och ett komplett
-token-system. Byt fyra variabler i `app.css` — hela sajten följer med.
-
-`Blazor Server` &nbsp;·&nbsp; `.NET 8` &nbsp;·&nbsp; `CSS Grid` &nbsp;·&nbsp; `Template`
-
----
-
 Hör gärna av dig om du vill samarbeta, diskutera ett projekt eller bara prata kod!
