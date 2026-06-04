@@ -28,9 +28,4 @@ token-system. Byt fyra variabler i `app.css` — hela sajten följer med.
 
 ---
 
-## 📫 Kontakt
-
-- **Email:** [rdahlqvist_@live.se](mailto:rdahlqvist_@live.se)
-- **LinkedIn:** https://www.linkedin.com/in/rasmus-holm-dahlqvist/
-
 Hör gärna av dig om du vill samarbeta, diskutera ett projekt eller bara prata kod!
